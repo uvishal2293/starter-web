@@ -5,7 +5,7 @@
 
     Dilip Upadhyay
     uvishal93@gmail.com
-    Linux Engineer
+    Linux Engineer, Python
 
 # THANKS
 
