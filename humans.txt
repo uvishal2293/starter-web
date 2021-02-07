@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Dilip Upadhyay <twitter>
+    Dilip Upadhyay
+    uvishal93@gmail.com
+    Linux Engineer
 
 # THANKS
 
