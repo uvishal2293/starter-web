@@ -5,7 +5,7 @@
 
     Dilip Upadhyay
     uvishal93@gmail.com
-    Linux Engineer
+    Linux Engineer, Python
 
 # THANKS
 
@@ -15,3 +15,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, Ajex
+    Aws, java prog, google
