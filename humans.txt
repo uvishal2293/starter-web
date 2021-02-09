@@ -7,7 +7,7 @@ Hi, I am modifying the file before rebase
 
     Dilip Upadhyay
     uvishal93@gmail.com
-    Linux Engineer, Python
+    Linux Engineer, Python, MCA, MS-CIT
 
 # THANKS
 
