@@ -18,3 +18,5 @@ Adding Git comparsions lectures
 
 ## GIT Hub Content
 Comparsion With Repo
+Adding new lectures of stats
+
