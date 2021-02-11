@@ -1,9 +1,15 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+
 Hi, I am modifying the file before rebase
 
+<<<<<<< HEAD
 Doing some changes in local.
+=======
+Hi Adding to conflict in my feature file.
+ Adding Conflict in a hums txt
+>>>>>>> mybranch
 
 # TEAM
 
