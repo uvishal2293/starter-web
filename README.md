@@ -2,7 +2,8 @@
 This is GIT Project, which we are using as sample project
 
 ## Introduction
-A lot of Lectures are already submmited
+A lot of Lectures are already submmited.
+And a lot of lectures are still coming on.
 
 ## GIT and GITHub Training
 This is the famous and one of the Best Training Course of 
